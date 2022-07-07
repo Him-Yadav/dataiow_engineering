@@ -42,7 +42,7 @@ Dashboard - Google Data studio
 
 -Deploy to VM
 
--Create Reports using Data Studio
+-Create Reports using Data Studio - https://datastudio.google.com/reporting/425ff009-603c-491f-8323-4df51f233478/page/LhqoC
 
 ## Visualization
 ![Alt text](image/iowa.PNG?raw=true "Visualization")
